@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+#-*-coding:utf-8-*-
+
+#author:ssc
+
 from selenium import webdriver
 import time as t
 
